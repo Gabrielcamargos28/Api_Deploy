@@ -1,0 +1,25 @@
+{
+  "name":"Gabriel",
+  "account":{
+      "numeber": "000000-000",
+      "agency": "0000",
+      "balance": 250000,
+      "limit": 1000000
+  },
+  "features": [
+    {
+      "icon": "URL",
+      "description": "Descricao de feature" 
+    }
+  ],
+  "card": {
+      "number": "0000 0000 0000 0000",
+      "limit": 100000.00
+  },
+  "news": [
+      {
+        "icon": "URL",
+        "description": "Descricao dce Novidades"
+      }
+  ]
+}
