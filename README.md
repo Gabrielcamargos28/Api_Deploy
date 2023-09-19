@@ -1,5 +1,34 @@
-﻿# Api_Deploy
+<h1 align="center">
+  API APRENDENDO A FAZER DEPLOY
+</h1>
+Api para fixar aprendizados de deploy de apis com railway
 
+## Tecnologias
+ 
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [Spring MVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
+- [Railway](https://docs.railway.app/)
+
+## Como Executar
+
+- Clonar repositório git:
+```
+git clone https://github.com/Gabrielcamargos28/Api_Gerenciamento_De_Arquivos.git
+```
+- Construir o projeto:
+```
+./mvnw clean package
+```
+- Executar:
+```
+java -jar ./target/Gerenciamento-0.0.1-SNAPSHOT.jar
+```
+
+## Testando
+
+```
+http://localhost:8080/swagger-ui/index.html
+```
 
 ## Diagrama de Classes
 ```mermaid
