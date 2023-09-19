@@ -13,7 +13,7 @@ Api para fixar aprendizados de deploy de apis com railway
 
 - Clonar repositório git:
 ```
-git clone https://github.com/Gabrielcamargos28/Api_Gerenciamento_De_Arquivos.git
+git clone https://github.com/Gabrielcamargos28/Api_Deploy.git
 ```
 - Construir o projeto:
 ```
@@ -21,7 +21,7 @@ git clone https://github.com/Gabrielcamargos28/Api_Gerenciamento_De_Arquivos.git
 ```
 - Executar:
 ```
-java -jar ./target/Gerenciamento-0.0.1-SNAPSHOT.jar
+java -jar .libs\santander-bootcamp-0.0.1-SNAPSHOT.jar
 ```
 
 ## Testando
