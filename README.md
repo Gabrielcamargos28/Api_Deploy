@@ -27,7 +27,8 @@ java -jar ./target/Gerenciamento-0.0.1-SNAPSHOT.jar
 ## Testando
 
 ```
-http://localhost:8080/swagger-ui/index.html
+[Railway]apideploy-primeira.up.railway.app
+[localhost] http://localhost:8080/swagger-ui/index.html
 ```
 
 ## Diagrama de Classes
