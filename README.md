@@ -15,9 +15,6 @@ Api para fixar aprendizados de deploy de apis com railway
 ```
 git clone https://github.com/Gabrielcamargos28/Api_Deploy.git
 ```
-- Construir o projeto:
-```
-./mvnw clean package
 ```
 - Executar:
 ```
